@@ -1,0 +1,18 @@
+body{
+    font-family: 'Mate SC', serif;
+}
+h1{
+    font-size: 50px;
+}
+.name-highlight{
+    color: rgba(0, 110, 255, 0.884);
+}
+.half-width{
+    width: 38%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
