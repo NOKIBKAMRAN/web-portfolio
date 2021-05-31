@@ -1,11 +1,23 @@
 body{
+    margin: 0px;
     font-family: 'Mate SC', serif;
 }
 h1{
     font-size: 50px;
+    color: lavender;
+}
+h2{
+    color: lavender;
+    text-decoration: underline;
 }
 .name-highlight{
-    color: rgba(0, 110, 255, 0.884);
+    color:rgba(0, 81, 255, 0.705);
+}
+p{
+    font-size: 25px;
+}
+.paragraph-color{
+    color:khaki;
 }
 .half-width{
     width: 38%;
@@ -15,4 +27,11 @@ h1{
 }
 .half-width img{
     width: 100%;
+}
+.top-banner{
+    border: 1px solid black;
+    background-image: url("images/back1.jpg");
+}
+section{
+    height: 1000px;
 }
